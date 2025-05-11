@@ -1,5 +1,6 @@
 ---
 title: Swirl
+layout: default
 ---
 
 # Ice Cream Theme
